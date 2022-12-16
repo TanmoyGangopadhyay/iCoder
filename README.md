@@ -1,3 +1,3 @@
-# iCoder# ZeroAI-Website
+# iCoder
 Official Website of
 [ZeroAI](https://www.zeroai.ml/)
