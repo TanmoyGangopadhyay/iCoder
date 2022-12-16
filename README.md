@@ -1,3 +1,4 @@
 # iCoder
-Official Website of iCoder Project
-[iCoder](https://www.zeroai.ml/)
+Official Website of
+[iCoder](https://tanmoygangopadhyay.github.io/iCoder/)
+Project
